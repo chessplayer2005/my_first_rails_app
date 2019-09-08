@@ -1,0 +1,12 @@
+1567038636403	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms. (why=schedule)
+1567040443146	Sync.SyncScheduler	DEBUG	Captive portal login success. Scheduling a sync.
+1567040443151	Sync.SyncScheduler	DEBUG	Next sync in 3000 ms. (why=captive-portal-login-success)
+1567040446155	Sync.Service	DEBUG	User-Agent: Firefox/68.0.1 (Linux x86_64) FxSync/1.70.0.20190718161435.desktop
+1567040446155	Sync.Service	INFO	Starting sync at 2019-08-28 21:00:46 in browser session Zi60J1_8RJxm
+1567040446155	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1567040446158	Sync.Status	INFO	Resetting Status.
+1567040446158	Sync.Status	DEBUG	Status.service: success.status_ok => success.status_ok
+1567040447002	Sync.Resource	WARN	GET request to https://sync-534-us-west-2.sync.services.mozilla.com/1.5/125016010/info/collections failed: [Exception... "<no message>"  nsresult: "0x805a1f7d (<unknown>)"  location: "<unknown>"  data: no] No traceback available
+1567040447003	Sync.ErrorHandler	ERROR	Sync encountered an error: [Exception... "<no message>"  nsresult: "0x805a1f7d (<unknown>)"  location: "<unknown>"  data: no] No traceback available
+1567040447005	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms. (why=reschedule)
+1567040447013	Sync.Service	DEBUG	Exception calling anonymous function: [Exception... "<no message>"  nsresult: "0x805a1f7d (<unknown>)"  location: "<unknown>"  data: no] No traceback available
